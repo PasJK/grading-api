@@ -1,4 +1,4 @@
 # grading-api
 for test
 
-Start with command  node server.js
+Run with command  node server.js
